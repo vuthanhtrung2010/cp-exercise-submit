@@ -21,7 +21,8 @@ npm i
 - Run build bằng cách:
 ```bash
 bun run build
-``` hoặc 
+```
+or
 ```bash
 npm run build
 ```
