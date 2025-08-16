@@ -4,3 +4,13 @@
 # React Router
 /.react-router/
 /build/
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Config (from env)
+config/
+statements/
+uploads/
